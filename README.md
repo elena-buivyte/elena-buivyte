@@ -1,15 +1,8 @@
-## Hi there, it's Elena 👋
+## Hi there, I'm Elena 👋
 
 
-Welcome! This is my GitHub profile.
+Welcome to my GitHub profile.
 
-It is empty... for now! Hopefully, new projects will be able to be shared soon.
+It's a bit quiet here at the moment, but stay tuned — new projects will be coming soon!
 
-Until later 😃
-<!--
-**elena-buivyte/elena-buivyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### 🔭 I’m currently working on some data analytics projects
-### 🌱 I’m currently learning... Python!
+Looking forward to sharing my work with you. Until then, take care and see you later! 😃
